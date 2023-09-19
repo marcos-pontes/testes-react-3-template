@@ -63,6 +63,8 @@ const UserCard = () => {
     return <p>Loading...</p>
   }
 
+  console.log(user)
+
   return (
     <CardContainer>
       <CardTop>
